@@ -49,7 +49,6 @@ body {
   color: var(--title-text-color-and-background);
 }
 .header-menu-link {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
 
   color: var(--title-text-color-and-background);
@@ -129,6 +128,11 @@ body {
 }
 
 /* ----------Section Actions - Section Team---------- */
+
+.team {
+  background-color: var(--color-cloud);
+}
+
 .second-title {
   font-weight: 700;
   font-size: 36px;
